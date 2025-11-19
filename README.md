@@ -32,4 +32,3 @@ voltages are noted down.
 
 RESULT:
 
-
